@@ -1,6 +1,6 @@
-# Stock-Trend-Prediction via LSTM
+# Stock-Trend-Prediction
 
-Predict stock trend of selected day via LSTM
+1. Predict stock trend of selected day via LSTM
 
 Trading strategy:
 
@@ -9,6 +9,8 @@ Two lines, prediction and real
 If there is a gold-cross, then call
 
 Otherwise, meet a dead-cross, put
+
+2. Predict stock trend via CNN
 
 
 Reference:
